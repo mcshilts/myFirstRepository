@@ -1,2 +1,3 @@
 This is file2
 This line was added in local git dir
+This line was added in GitHub
